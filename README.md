@@ -1,4 +1,4 @@
-# ATHELETE_PAY_ANALYSIS
+# ATHELETE PAY ANALYSIS
 
 ![](https://github.com/Yomi-F/ATHELETE_PAY_ANALYSIS/blob/main/ATHELETE%20DASHBOARD.png)
 
@@ -9,7 +9,7 @@ Welcome to my Athlete Pay Analysis! This project delves into examining athlete s
 ## Key Insights:
 ### 1. Top-Paid Sports:
 
-1[](https://github.com/Yomi-F/ATHELETE_PAY_ANALYSIS/blob/main/SALARY%20BY%20SPORTS.png)
+![](https://github.com/Yomi-F/ATHELETE_PAY_ANALYSIS/blob/main/SALARY%20BY%20SPORTS.png)
 
 
 - The dashboard reveals that football stands as the highest-paid sport, with athletes commanding an average salary of $21.5 million. Tennis closely follows with an average of $20.2 million.
@@ -31,6 +31,8 @@ Welcome to my Athlete Pay Analysis! This project delves into examining athlete s
 ### 4. Team Salaries:
 
 ![](https://github.com/Yomi-F/ATHELETE_PAY_ANALYSIS/blob/main/NET%20SALARY%20BY%20TEAM.png)
+
+- The analysis highlights the top five teams by net salary, including USA Golf, Rosenborg BK, Los Angeles Lakers, New York Yankees, and UK Golf, offering insights into the financial dynamics within sports organizations.
 
 
 ### 5. Gender Pay:
